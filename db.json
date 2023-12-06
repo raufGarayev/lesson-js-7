@@ -8,11 +8,11 @@
       "city": "New York"
     },
     {
-      "id": 2,
-      "username": "jane_smith",
-      "email": "jane.smith@example.com",
-      "age": 25,
-      "city": "Los Angeles"
+      "username": "adsdas",
+      "email": "adsads",
+      "age": "54",
+      "city": "aadasd",
+      "id": 2
     }
   ]
 }
